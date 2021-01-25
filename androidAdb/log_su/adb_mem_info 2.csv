@@ -1,0 +1,149 @@
+Applications Memory Usage (kB):
+Uptime: 188128340 Realtime: 188128340
+
+Total PSS by process:
+   349686 kB: com.zjrcinfo.visitor_new (pid 26044 / activities)
+    97083 kB: com.sohu.inputmethod.sogou (pid 721)
+    64320 kB: system (pid 468)
+    47654 kB: com.sohu.inputmethod.sogou:push_service (pid 1739)
+    47443 kB: com.sohu.inputmethod.sogou:classic (pid 1530)
+    43940 kB: com.sohu.inputmethod.sogou:scrashly (pid 3308)
+    42861 kB: com.android.systemui (pid 629 / activities)
+    20981 kB: com.android.settings (pid 1261)
+    18804 kB: com.android.phone (pid 865)
+    15937 kB: com.android.camera2 (pid 17844)
+    13742 kB: com.android.launcher3 (pid 892 / activities)
+    12269 kB: mediaserver (pid 154)
+    11750 kB: zygote (pid 161)
+     9182 kB: com.android.bluetooth (pid 1645)
+     8558 kB: android.process.media (pid 592)
+     8081 kB: com.android.calendar (pid 1438)
+     6948 kB: surfaceflinger (pid 148)
+     6814 kB: com.android.deskclock (pid 1462)
+     5974 kB: com.android.providers.calendar (pid 1329)
+     5758 kB: com.android.inputmethod.latin (pid 1491)
+     5186 kB: android.rockchip.update.service (pid 935)
+     4892 kB: com.jk.power (pid 785)
+     4609 kB: com.android.defcontainer (pid 5454)
+     4474 kB: com.android.rockchip (pid 3096)
+     2949 kB: com.cghs.stresstest (pid 840)
+     2803 kB: com.android.smspush (pid 1024)
+     2280 kB: logd (pid 142)
+     1483 kB: drmserver (pid 153)
+     1288 kB: wpa_supplicant (pid 610)
+      812 kB: vold (pid 147)
+      758 kB: netd (pid 150)
+      670 kB: debuggerd (pid 151)
+      622 kB: sdcard (pid 162)
+      610 kB: keystore (pid 156)
+      540 kB: rild (pid 152)
+      383 kB: top (pid 2460)
+      377 kB: /init (pid 1)
+      354 kB: displayd (pid 146)
+      332 kB: ueventd (pid 118)
+      329 kB: lmkd (pid 144)
+      260 kB: adbd (pid 163)
+      255 kB: dhcpcd (pid 9126)
+      246 kB: installd (pid 155)
+      232 kB: logcat (pid 26125)
+      213 kB: servicemanager (pid 145)
+      196 kB: healthd (pid 143)
+      188 kB: daemonsu:0 (pid 2012)
+      165 kB: lcdparamservice (pid 157)
+       92 kB: daemonsu:master (pid 176)
+       88 kB: daemonsu:mount:master (pid 158)
+        0 kB: top (pid 12465)
+        0 kB: dumpsys (pid 12467)
+
+Total PSS by OOM adjustment:
+    43740 kB: Native
+               12269 kB: mediaserver (pid 154)
+               11750 kB: zygote (pid 161)
+                6948 kB: surfaceflinger (pid 148)
+                2280 kB: logd (pid 142)
+                1483 kB: drmserver (pid 153)
+                1288 kB: wpa_supplicant (pid 610)
+                 812 kB: vold (pid 147)
+                 758 kB: netd (pid 150)
+                 670 kB: debuggerd (pid 151)
+                 622 kB: sdcard (pid 162)
+                 610 kB: keystore (pid 156)
+                 540 kB: rild (pid 152)
+                 383 kB: top (pid 2460)
+                 377 kB: /init (pid 1)
+                 354 kB: displayd (pid 146)
+                 332 kB: ueventd (pid 118)
+                 329 kB: lmkd (pid 144)
+                 260 kB: adbd (pid 163)
+                 255 kB: dhcpcd (pid 9126)
+                 246 kB: installd (pid 155)
+                 232 kB: logcat (pid 26125)
+                 213 kB: servicemanager (pid 145)
+                 196 kB: healthd (pid 143)
+                 188 kB: daemonsu:0 (pid 2012)
+                 165 kB: lcdparamservice (pid 157)
+                  92 kB: daemonsu:master (pid 176)
+                  88 kB: daemonsu:mount:master (pid 158)
+                   0 kB: top (pid 12465)
+                   0 kB: dumpsys (pid 12467)
+    64320 kB: System
+               64320 kB: system (pid 468)
+    78930 kB: Persistent
+               42861 kB: com.android.systemui (pid 629 / activities)
+               18804 kB: com.android.phone (pid 865)
+                8558 kB: android.process.media (pid 592)
+                5758 kB: com.android.inputmethod.latin (pid 1491)
+                2949 kB: com.cghs.stresstest (pid 840)
+     9182 kB: Persistent Service
+                9182 kB: com.android.bluetooth (pid 1645)
+   349686 kB: Foreground
+              349686 kB: com.zjrcinfo.visitor_new (pid 26044 / activities)
+     2803 kB: Visible
+                2803 kB: com.android.smspush (pid 1024)
+   144737 kB: Perceptible
+               97083 kB: com.sohu.inputmethod.sogou (pid 721)
+               47654 kB: com.sohu.inputmethod.sogou:push_service (pid 1739)
+    13742 kB: Home
+               13742 kB: com.android.launcher3 (pid 892 / activities)
+    52629 kB: B Services
+               47443 kB: com.sohu.inputmethod.sogou:classic (pid 1530)
+                5186 kB: android.rockchip.update.service (pid 935)
+   115702 kB: Cached
+               43940 kB: com.sohu.inputmethod.sogou:scrashly (pid 3308)
+               20981 kB: com.android.settings (pid 1261)
+               15937 kB: com.android.camera2 (pid 17844)
+                8081 kB: com.android.calendar (pid 1438)
+                6814 kB: com.android.deskclock (pid 1462)
+                5974 kB: com.android.providers.calendar (pid 1329)
+                4892 kB: com.jk.power (pid 785)
+                4609 kB: com.android.defcontainer (pid 5454)
+                4474 kB: com.android.rockchip (pid 3096)
+
+Total PSS by category:
+   342871 kB: Native
+   226406 kB: Dalvik
+   131942 kB: Dalvik Other
+    42419 kB: .so mmap
+    33181 kB: .art mmap
+    31439 kB: .oat mmap
+    26468 kB: .dex mmap
+    12311 kB: Other mmap
+    10447 kB: .apk mmap
+     7530 kB: Stack
+     4088 kB: Unknown
+     3910 kB: Other dev
+     1679 kB: .ttf mmap
+      760 kB: Ashmem
+       12 kB: .jar mmap
+        8 kB: Cursor
+        0 kB: Gfx dev
+        0 kB: EGL mtrack
+        0 kB: GL mtrack
+        0 kB: Other mtrack
+
+Total RAM: 2060672 kB (status normal)
+ Free RAM: 931706 kB (115702 cached pss + 527444 cached kernel + 288560 free)
+ Used RAM: 912697 kB (759769 used pss + 152928 kernel)
+ Lost RAM: 216269 kB
+     ZRAM: 4 kB physical used for 0 kB in swap (520908 kB total swap)
+   Tuning: 192 (large 512), oom 184320 kB, restore limit 61440 kB (high-end-gfx)
